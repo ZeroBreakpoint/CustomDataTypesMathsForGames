@@ -1,0 +1,11 @@
+﻿  ColourTests.cpp
+  Matrix3Tests.cpp
+  Matrix3TransformTests.cpp
+  Matrix4Tests.cpp
+  Matrix4TransformTests.cpp
+  Vector3Tests.cpp
+  Vector4Tests.cpp
+  Generating Code...
+  LINK : C:\Users\bradl\OneDrive\Desktop\Custom Data Types Assessment\MathLibraryTests - BRobertson\x64\Debug\MathLibraryTests.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\bradl\OneDrive\Desktop\Custom Data Types Assessment\MathLibraryTests - BRobertson\x64\Debug\MathLibraryTests.lib and object C:\Users\bradl\OneDrive\Desktop\Custom Data Types Assessment\MathLibraryTests - BRobertson\x64\Debug\MathLibraryTests.exp
+  MathLibraryTests.vcxproj -> C:\Users\bradl\OneDrive\Desktop\Custom Data Types Assessment\MathLibraryTests - BRobertson\x64\Debug\MathLibraryTests.dll
